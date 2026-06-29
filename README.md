@@ -32,7 +32,6 @@ marketing-database-system/
 
 ## 🖼 ER Diagram
 
-(Add the ERD image here)
 
 ## 👨‍💻 Author
 
